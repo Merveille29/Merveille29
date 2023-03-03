@@ -3,7 +3,7 @@
 <h3 align="center">A passionate about computer science and specially web and mobile project management</h3>
 
 
-- 🔭 I’m currently working on **NetPlus and MyShop**
+- 🔭 I’m currently working on **NetPlus(Mobile App) and MyShop(Website)**
 
 - 🌱 I’m currently learning **Design UI/UX and Mobile development**
 
