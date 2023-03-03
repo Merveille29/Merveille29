@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Merveille29/Shopurple/blob/master/Illustration%20by%20a%20href%3Dhttpsicons8.comillustrationsauthorzD2oqC8lLBBAIcons%208a%20from%20a%20href%3Dhttpsicons8.comillustrationsOuch!a.png)]
 <h1 align="center">Hi 👋, I'm Merveille GANGNI</h1>
 <h3 align="center">A passionate about computer science and specially web and mobile project management</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Merveille29/Shopurple/blob/master/IMG-3742.jpg">
+
 
 - 🔭 I’m currently working on **NetPlus and MyShop**
 
