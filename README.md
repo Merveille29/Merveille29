@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Merveille29/Shopurple/blob/master/Illustration%20by%20a%20href%3Dhttpsicons8.comillustrationsauthorzD2oqC8lLBBAIcons%208a%20from%20a%20href%3Dhttpsicons8.comillustrationsOuch!a.png)]
 <h1 align="center">Hi 👋, I'm Merveille GANGNI</h1>
-<h3 align="center">I'm in Tek3 of sofware engineering at EPITECH Bénin.<br>
-I'm in Tek3 of sofware engineering at EPITECH Bénin. I'm passionnate about Design UI/UX, mobile and web development and digital marketing. I also have a natural leadership and I love work with others people That's why i aspire to be web and mobile project manager. I want to work in environment where i can learn a lot, share my creativity, my knowledges and ugrape my professional profile.</h3>
+<h4 align="center">I'm in Tek3 of sofware engineering at EPITECH Bénin.<br>
+I'm in Tek3 of sofware engineering at EPITECH Bénin.<br>I'm passionnate about Design UI/UX, mobile and web development and digital marketing.<br>I also have a natural leadership and I love work with others people.<br>That's why I aspire to be Web and Mobile "project manager".<br> I want to work in environment where i can learn a lot, share my creativity, my knowledges and ugrape my professional profile.</h4>
 
 
 - 🔭 I’m currently working on **NetPlus(Mobile App) and MyShop(Website)**
